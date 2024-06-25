@@ -1,2 +1,2 @@
-# Stone-Paper-Scissors
+# Rock-Paper-Scissors
 Second mini project of a game.
